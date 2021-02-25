@@ -37,12 +37,13 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    
 }
 .d-box .percent{
     height: 60px;
     width: 100%;
     line-height: 55px;
-    background-color: green;
+    border:1px solid white;
 }
 .d-box .rgb{
     height: 20px;
